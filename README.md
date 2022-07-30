@@ -1,1 +1,1 @@
-# Graph-Neural-Network
+# Node_Classification_with_Graph-Neural-Network
